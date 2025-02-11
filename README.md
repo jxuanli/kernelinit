@@ -3,7 +3,7 @@ A tool for automating setup of kernel pwn challenges.
 
 ## Installation
 ```sh
-python3 -m pip install git+https://github.com/Myldero/kernelinit
+python3 -m pip install git+https://github.com/jxuanli/kernelinit
 ```
 
 ## Usage
